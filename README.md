@@ -43,10 +43,10 @@ SQLite Studio, MS Excel
 
 *Fig. III: Corresponding Investment Grade(IG) matching with credit assessments from other organizations*
 
-* Mapping table from **internal grade (IG)** to internal rating (desired **Standardized Risk Weighting**). (“ig_to_rating.csv”) 
-![image](https://user-images.githubusercontent.com/83738852/214078275-2ef6fa91-f294-41e3-a3ed-311bedb851e1.png "Fig. III: Conversion from Investment Grade(IG) to our own Standardized Risk Weighting (RTG_FINAL)") 
+* Mapping table from **internal grade (IG)** to internal rating (desired **Standardized Risk Weighting**).(“ig_to_rating.csv”) 
+![image](https://user-images.githubusercontent.com/83738852/214078275-2ef6fa91-f294-41e3-a3ed-311bedb851e1.png "Fig. IV: Conversion from Investment Grade(IG) to our own Standardized Risk Weighting (RTG_FINAL)") 
 
-*Fig. III: Conversion from Investment Grade(IG) to our own Standardized Risk Weighting (RTG_FINAL)*
+*Fig. IV: Conversion from Investment Grade(IG) to our own Standardized Risk Weighting (RTG_FINAL)*
 
 **Note**: “*lt_rating_to_ig.csv*” and “*ig_to_rating.csv*” are **derived** from the above-mentioned OSFI's guidance.
 
