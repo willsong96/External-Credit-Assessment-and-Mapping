@@ -9,3 +9,4 @@ The **Office of the Superintendent of Financial Institutions (OSFI)** has raised
 Each bank will be responsible for assigning eligible **External Credit Assessment Institutions (ECAIs)**’ assessments to the risk weights available under the standardized risk weighting framework, i.e. deciding which assessment categories correspond to which risk weights.
 
 The mapping process should be objective and should result in a risk weight assignment consistent with that of the level of credit risk reflected in the tables above. It should cover the full spectrum of risk weights. The following table provides guidance as to how such a mapping process may be conducted:
+![image](https://user-images.githubusercontent.com/83738852/214069190-e6bf404a-ee69-4f8f-a644-961da180b81e.png)
